@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.scene
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_BuildProfiles: []
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f940f718c84abc34ea0ac54bb35f0f6d,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 25a5f6e9b6eb1c843878a839e65e9dae,
+      type: 2}
+  m_SlimFeaturesWeixinMiniGame:
+    ACLDecompression: 0
+    AllocateOverhead: 1
+    DecompressASTC: 0
+    DecompressDXT: 0
+    DecompressETC: 1
+    FreeTypeSfntPng: 1
+    LightProbe: 2
+    RootMotion: 0
+    UseStringInternPool: 2

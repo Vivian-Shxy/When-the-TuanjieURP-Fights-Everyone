@@ -107,21 +107,21 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
-    - _DensityMultiplier: 4
-    - _DensityThreshold: 0.4
+    - _DensityMultiplier: 0.34
+    - _DensityThreshold: 0.273
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _ErosionStrength: 0.3
+    - _ErosionStrength: 0
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _HeightBottom: 0
     - _HeightFalloff: 1.5
     - _HeightTop: 8
-    - _LightScattering: 0.7
+    - _LightScattering: -0.41
     - _MaxDistance: 30
     - _MaxSteps: 24
     - _Metallic: 0
@@ -136,14 +136,14 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
-    - _StepSize: 1.5
+    - _StepSize: 2.14
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.47843137, g: 0.54901963, b: 0.47843137, a: 1}
+    - _Color: {r: 0.6816902, g: 0.6855345, b: 0.51954025, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _LightContribution: {r: 2, g: 2, b: 2, a: 1}
+    - _LightContribution: {r: 0.21442977, g: 0.49056602, b: 0.32948655, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
